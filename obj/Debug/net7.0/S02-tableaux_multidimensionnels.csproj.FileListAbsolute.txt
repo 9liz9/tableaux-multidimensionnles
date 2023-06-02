@@ -1,0 +1,15 @@
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-tableaux_multidimensionnels/bin/Debug/net7.0/S02-tableaux_multidimensionnels
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-tableaux_multidimensionnels/bin/Debug/net7.0/S02-tableaux_multidimensionnels.deps.json
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-tableaux_multidimensionnels/bin/Debug/net7.0/S02-tableaux_multidimensionnels.runtimeconfig.json
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-tableaux_multidimensionnels/bin/Debug/net7.0/S02-tableaux_multidimensionnels.dll
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-tableaux_multidimensionnels/bin/Debug/net7.0/S02-tableaux_multidimensionnels.pdb
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-tableaux_multidimensionnels/obj/Debug/net7.0/S02-tableaux_multidimensionnels.csproj.AssemblyReference.cache
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-tableaux_multidimensionnels/obj/Debug/net7.0/S02-tableaux_multidimensionnels.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-tableaux_multidimensionnels/obj/Debug/net7.0/S02-tableaux_multidimensionnels.AssemblyInfoInputs.cache
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-tableaux_multidimensionnels/obj/Debug/net7.0/S02-tableaux_multidimensionnels.AssemblyInfo.cs
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-tableaux_multidimensionnels/obj/Debug/net7.0/S02-tableaux_multidimensionnels.csproj.CoreCompileInputs.cache
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-tableaux_multidimensionnels/obj/Debug/net7.0/S02-tableaux_multidimensionnels.dll
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-tableaux_multidimensionnels/obj/Debug/net7.0/refint/S02-tableaux_multidimensionnels.dll
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-tableaux_multidimensionnels/obj/Debug/net7.0/S02-tableaux_multidimensionnels.pdb
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-tableaux_multidimensionnels/obj/Debug/net7.0/S02-tableaux_multidimensionnels.genruntimeconfig.cache
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-tableaux_multidimensionnels/obj/Debug/net7.0/ref/S02-tableaux_multidimensionnels.dll
